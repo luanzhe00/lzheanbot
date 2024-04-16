@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"luanzhebot",
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQG-Jb13Zx4nVHDn3GfOgPR2OlBAYs4usS3_NNveWCnqtE8tcuZmtnSu9zgiqtGOpU47cW2hEKICFOo/pub?output=csv",
+  "git_remote":"git@github.com:luanzhe00/lzheanbot.git"
+}
